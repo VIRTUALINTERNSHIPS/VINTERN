@@ -74,17 +74,17 @@ def layout(*args):
 def footer():
     myargs = [
         
-        "🔍",link("https://twitter.com/ChristianKlose3", "About us"),
+        "🔍",link("https://vintern-about-us.streamlit.app/", "About us"),
         "            ||  ",
-        "📞",link("https://twitter.com/ChristianKlose3", "Contact Us"),
+        "📞",link("https://vintern-contact-us.streamlit.app/", "Contact Us"),
         "             ||    ",
-        "❓",link("https://twitter.com/ChristianKlose3", "FAQ"),
+        "❓",link("https://vintern-faq.streamlit.app/", "FAQ"),
         "            ||     ",
-        "☑",link("https://twitter.com/ChristianKlose3", "Terms-and-Conditions"),
+        "☑",link("https://vintern-terms-and-conditions.streamlit.app/", "Terms-and-Conditions"),
         "            ||     ",
-        "🔐",link("https://twitter.com/ChristianKlose3", "Privacy Policy"),
+        "🔐",link("https://vintern-privacy-policy.streamlit.app/", "Privacy Policy"),
         "            ||     ",
-        "💳",link("https://twitter.com/ChristianKlose3", "Refund"),
+        "💳",link("https://vintern-refund.streamlit.app/", "Refund"),
         br(),
         "© 2023 Copyright: 🎓VINTERN"
 
